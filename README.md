@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte da Atividade 08 do curso de Full Stack 
 
 ---
 
-## 🧱 Estrutura do Banco de Dados
+## Estrutura do Banco de Dados
 
 O sistema foi modelado para representar a lógica de **comandas** de uma cafeteria.  
 A estrutura conta com as seguintes tabelas:
@@ -19,13 +19,13 @@ A estrutura conta com as seguintes tabelas:
 
 ## Funcionalidades Implementadas (Consultas SQL)
 
-1️⃣ **Listagem do cardápio** ordenada por nome  
-2️⃣ **Exibição das comandas com seus itens**, trazendo:
+1. **Listagem do cardápio** ordenada por nome  
+2. **Exibição das comandas com seus itens**, trazendo:
    - código, data, mesa e nome do cliente  
    - nome do café, descrição, quantidade, preço unitário e total  
-3️⃣ **Cálculo do valor total da comanda**  
-4️⃣ **Filtragem de comandas com mais de um tipo de café**  
-5️⃣ **Faturamento total agrupado por data**
+3.  **Cálculo do valor total da comanda**  
+4. **Filtragem de comandas com mais de um tipo de café**  
+5.  **Faturamento total agrupado por data**
 
 ---
 
